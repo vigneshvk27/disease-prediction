@@ -1,0 +1,1 @@
+This project is a machine learning-based disease prediction system that predicts the likelihood of Diabetes, Heart Disease, and Parkinson’s Disease based on user input. It uses SVM and Logistic Regression models and is deployed using Streamlit for an interactive interface.
